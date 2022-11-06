@@ -1,0 +1,29 @@
+.blog-button {
+    background-color: rgb(0, 0, 0);
+    height: 45px;
+    width: 250px;
+    border-radius: 20px;
+    transition: 0.25s;
+    border-color: rgb(117, 114, 114);
+    border-style: solid;
+    color: rgb(151, 151, 151);
+    font-size: medium;
+    text-align: center;
+    margin: auto;
+    transition-delay: 0.25ms;
+}
+
+.blog-button:hover {
+    opacity: 0.5;
+    border-radius: 12px;
+    transition-delay: 0.25ms;
+
+}
+
+.blog-button:active {
+    background-color: rgb(105, 105, 105);
+    border: none;  
+    border-radius: 12px;
+    transition-delay: 0.25ms;
+}
+

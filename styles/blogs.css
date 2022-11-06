@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(29, 29, 29);
+
+}
+
+.blog1-text1 {
+  color: rgb(188, 187, 187);
+  margin-top: 30px;
+  font-size: xx-large;
+  
+
+}
+
+.text-blog1 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+
+}
+
+.blog1-photo1 {
+  height: 600px;
+  width: 1000px;
+
+}
+
+.blog1-text2 {
+  color: rgb(188, 187, 187);
+  margin-top: 30px;
+  font-size: xx-large;
+
+}
