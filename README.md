@@ -1,10 +1,11 @@
 # Changelogs 
-Version 0.1 BETA : 
 
-Added first blog .
+- # Version 0.1 BETA 
 
-Maked clickable picture in blogs list not buttons.
+- Added first blog .
 
-Added some effects with CSS on blogs list .
+- Maked clickable picture in blogs list not buttons.
+
+- Added some effects with CSS on blogs list .
 
 # Website link "https://yeeetsk.github.io/yeeet-website/"
